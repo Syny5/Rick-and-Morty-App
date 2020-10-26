@@ -1,5 +1,5 @@
 # Rick-and-Morty-Infos
-Vuetify / Vue Router / Vue CLI little app with data fetched from Rick and Morty API
+Vue CLI little app using Vue Router and Vuetify
 
 => https://syny5.github.io/Rick-and-Morty-Infos/
 
