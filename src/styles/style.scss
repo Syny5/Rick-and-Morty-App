@@ -36,10 +36,16 @@
 
 .layoutLocationsEpisodes{
     margin-top: 0px;
+    margin-bottom: 50px;
 }
 
 .name{
     font-size: 1.25rem;
+}
+
+.v-input{
+    max-width: 90%;
+    margin-left: 5%;
 }
 
 @media(max-width: 400px){

@@ -1,4 +1,4 @@
-# vuetify-route
+# Rick & Morty infos
 
 ## Project setup
 ```
