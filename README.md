@@ -1,4 +1,6 @@
-# vuetify-route
+# Vuetify / Vue Router / Vue CLI little app with infos fetched from Rick and Morty API
+
+API: https://rickandmortyapi.com/
 
 ## Project setup
 ```
